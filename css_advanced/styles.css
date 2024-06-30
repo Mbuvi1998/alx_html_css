@@ -1,0 +1,16 @@
+/*selector {
+    property: value;
+    property: value;
+    property: value;
+    property: value;
+}*/
+header {
+    color: #FFFFFF;
+    color: #C271FF;
+    color:#000000;
+    text-decoration: none;
+    letter-spacing: 0px;
+    line-height: auto;
+    font-family: sans pro;
+    font-weight: bold;
+}
